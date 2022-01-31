@@ -227,19 +227,36 @@ img
 
 .shrinky
 {
+  height: 300px;
+
   animation-name: shrink;
   animation-duration: 5s;
   animation-timing-function: ease-in-out;
   animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+.shrinky2
+{
+  height: 300px;
+
+  animation-name: shrink;
+  animation-duration: 5s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-delay: 2.5s;
 }
 
 @keyframes shrink
 {
   0%, 100%{
     transform: scale(1.0);
+    background-color: white;
   }
 
   50%{
     transform: scale(0.25);
+    background-color: black;
   }
 }
