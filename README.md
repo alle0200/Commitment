@@ -15,3 +15,5 @@ You can find my finished project here:
 ## Final Thoughts
 
 The openess of this assignment left me kind of unsure of what to do at first, but I think I eventually got a hang of things. If there are any noticable typos or errors, please let me know and I'll do my best to correct them.
+
+At the very least though, it felt refreshing to code in css again. It has been nearly 2 years since I've touched the coding language, so it was nice finally being able to pick it up again (even if that meant I had to re-teach myself everything).
