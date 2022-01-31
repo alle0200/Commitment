@@ -175,6 +175,13 @@ img
   background-color: white;
 }
 
+.thirdwidth{
+  width: 31.3333333333333333333333%;
+  margin: 1%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
 .quarterwidth
 {
   width: 23%;
