@@ -38,8 +38,8 @@ img
 .colorlessholder
 {
   width: 96%;
-  margin: 2% 0% 0% 2%;
-  padding:  2% 0% 0% 2%;
+  margin: 0% 2% 0% 2%;
+  padding:  0% 2% 0% 2%;
   box-sizing: border-box;
 
   display: flex;
