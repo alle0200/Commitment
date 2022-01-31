@@ -9,7 +9,7 @@ There was no required way to design the project on the assignment page, and we w
 
 ## Project Link
 
-__You can find my finished project here:__
+__You can find my finished project here:__ (https://creative.colorado.edu/~alle0200/dev/commitment/index.html)
 
 The entire project is just on one page, but it's a pretty long page with a lot of stuff on it. I hope the web page is sufficient enough.
 
