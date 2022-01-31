@@ -9,7 +9,7 @@ There was no required way to design the project on the assignment page, and we w
 
 ## Project Link
 
-You can find my finished project here:
+__You can find my finished project here:__
 
 The entire project is just on one page, but it's a pretty long page with a lot of stuff on it. I hope the web page is sufficient enough.
 
@@ -17,6 +17,6 @@ The entire project is just on one page, but it's a pretty long page with a lot o
 
 The openess of this assignment left me kind of unsure of what to do at first, but I think I eventually got a hang of things. If there are any noticable typos or errors, please let me know and I'll do my best to correct them.
 
-At the very least though, it feels refreshing to code in css again. It has been nearly 2 years since I've touched the coding language, so it was nice finally being able to pick it up again (even if that meant I had to relearn practically everything).
+At the very least though, it feels refreshing to code in css again. It has been nearly 2 years since I've touched the coding language, so it was nice finally being able to pick it up again (even if that meant I had to relearn a lot).
 
 Overall though, I really hope that what I managed to do before the deadline is good enough. The shakiness of my own theme has me a little concerned, but since the assignment is mainly about css I'm hoping that I'll be fine.
