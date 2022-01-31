@@ -6,7 +6,7 @@ This project is the second assignment in David Schaal's Creative Web Development
 
 ## Project Design
 
-There was no required way to design the project on the assignment page, and we were encouraged to do whatever popped in our heads in order to style our pages. As such, my project doesn't have a super clear overarching theme. I just coded whatever popped into my head and included the files I already had on my computer (all while trying to make sure the website was at least aesthetically pleasing).
+There was no required way to design the project on the assignment page, and we were encouraged to do whatever popped in our heads in order to style our pages. As such, my project doesn't have a super clear overarching theme. I just coded whatever popped into my head (all while trying to make sure the website was at least aesthetically pleasing). Most of the images I ended up including in this project were things I already had saved on my computer, but I did have to go out of my way to download a couple things.
 
 ## Project Link
 
