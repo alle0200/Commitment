@@ -385,8 +385,6 @@ img
 
 .zoomie
 {
-  width: 400px;
-  height: 200px;
 
   animation-name: zoom;
   animation-duration: 2s;
@@ -401,20 +399,23 @@ img
   0%, 100%{
     transform: translate(0px, 0px);
     background-color: white;
+    transform: scale(1.0);
   }
 
   25%{
-    transform: translate(10px, 0px);
-    background-color: black;
+    transform: translate(200px, 0px);
+    background-color: gray;
+
   }
 
   50%{
-    transform:  translate(10px, 10px);
+    transform:  translate(200px, -10px);
     background-color: white;
+    transform: scale(1.1, 1);
   }
 
   75%{
-    transform: translate(0px, 10px);
-    background-color: black;
+    transform: translate(0px, -10px);
+    background-color: gray;
   }
 }
