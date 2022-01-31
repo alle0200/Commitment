@@ -35,7 +35,7 @@ img
   max-width: 100%;
 }
 
-#pagetitle
+.colorlessholder
 {
   width: 96%;
   margin: 2% 0% 0% 2%;
@@ -45,7 +45,7 @@ img
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  align-content: center;
+  align-content: flex-start;
   align-items: center;
 }
 
@@ -180,6 +180,8 @@ img
   margin: 1%;
   padding: 1%;
   box-sizing: border-box;
+
+  background-color: white;
 }
 
 .quarterwidth
@@ -188,6 +190,8 @@ img
   margin: 1%;
   padding: 1%;
   box-sizing: border-box;
+
+  background-color: white;
 }
 
 .eigthwidth
