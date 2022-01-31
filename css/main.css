@@ -48,6 +48,47 @@ img
   margin: 15px;
 }
 
+.animate1
+{
+  animation: move 3s ease-in-out infinite alternate;
+  animation-delay: 0s;
+}
+
+.animate2
+{
+  animation: move 3s ease-in-out infinite alternate;
+  animation-delay: 0.1s;
+}
+
+.animate3
+{
+  animation: move 3s ease-in-out infinite alternate;
+  animation-delay: 0.2s;
+}
+
+.animate4
+{
+  animation: move 3s ease-in-out infinite alternate;
+  animation-delay: 0.3s;
+}
+
+.animate5
+{
+  animation: move 3s ease-in-out infinite alternate;
+  animation-delay: 0.4s;
+}
+
+@keyframes move
+{
+  0%, 100%{
+    transform: translate(0,0);
+  }
+
+  50%{
+    transform: translate(100px,0);
+  }
+}
+
 /* code from https://css-tricks.com/the-shapes-of-css/ */
 /*#space-invader {
   box-shadow: 0 0 0 1em white,
