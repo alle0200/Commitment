@@ -400,6 +400,7 @@ img
     transform: translate(0px, 0px);
     background-color: white;
     transform: scale(1.0);
+    transform: rotate(0deg);
   }
 
   25%{
@@ -412,6 +413,7 @@ img
     transform:  translate(200px, -10px);
     background-color: white;
     transform: scale(1.1, 1);
+    transform: rotate(5deg);
   }
 
   75%{
