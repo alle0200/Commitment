@@ -1,8 +1,25 @@
-body {
+body
+{
   background:  yellow;
 }
 
-#container{
+h1
+{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 70px;
+
+  margin: 2% 0% 0% 2%;
+  padding: 2% 0% 0% 2%;
+}
+
+p
+{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 300;
+}
+
+#container
+{
   width: 100%;
   margin: 0px auto;
   padding:  0px;
@@ -15,7 +32,7 @@ body {
   align-items: stretch;
 }
 
-.testclass
+.halfwidth
 {
   width: 46%;
   margin: 2%;
