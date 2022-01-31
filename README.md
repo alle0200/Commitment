@@ -12,6 +12,8 @@ There was no required way to design the project on the assignment page, and we w
 
 You can find my finished project here:
 
+The entire project is just on one page, but it's a pretty long page with a lot of stuff on it.
+
 ## Final Thoughts
 
 The openess of this assignment left me kind of unsure of what to do at first, but I think I eventually got a hang of things. If there are any noticable typos or errors, please let me know and I'll do my best to correct them.
