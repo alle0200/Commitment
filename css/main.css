@@ -372,3 +372,13 @@ img
 {
   font-family: 'Cinzel', serif;
 }
+
+.twothirdswidth
+{
+  width: 64.333333333333333333333333333333%;
+  padding: 1%;
+  margin: 1%;
+  box-sizing: border-box;
+
+  background-color: white;
+}
