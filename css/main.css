@@ -421,3 +421,28 @@ img
     background-color: gray;
   }
 }
+
+.theend
+{
+  animation-name: stretch;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+
+  background-color: white;
+}
+
+@keyframes stretch
+{
+  0%, 100%{
+    transform: scale(1.0);
+  }
+
+  50%{
+    transform: scale(1.0, 1.1);
+  }
+
+  75%{
+    transform: scale(1.1, 1.0);
+  }
+}
