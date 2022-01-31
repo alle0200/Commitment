@@ -18,7 +18,12 @@ p
   font-weight: 300;
 }
 
-#container
+img
+{
+  max-width: 100%;
+}
+
+.container
 {
   width: 100%;
   margin: 0px auto;
@@ -32,6 +37,17 @@ p
   align-items: stretch;
 }
 
+.fullwidth
+{
+  width: 96%;
+  margin: 2%;
+  padding: 2%;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+
+  background-color: white;
+}
+
 .halfwidth
 {
   width: 46%;
@@ -40,4 +56,17 @@ p
   box-sizing: border-box;
 
   background-color: white;
+}
+
+.quarterwidth
+{
+  width: 21%;
+  margin: 2%;
+  padding: 2%;
+  box-sizing: border-box;
+}
+
+.center
+{
+  text-align: center;
 }
