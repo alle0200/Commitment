@@ -7,9 +7,10 @@ h1
 {
   font-family: 'Bebas Neue', cursive;
   font-size: 70px;
+  text-align: center;
 
-  margin: 2% 0% 0% 2%;
-  padding: 2% 0% 0% 2%;
+  /*margin: 2% 0% 0% 2%;
+  padding: 2% 0% 0% 2%;*/
 }
 
 p
@@ -22,6 +23,45 @@ img
 {
   max-width: 100%;
 }
+
+#space-invader {
+  box-shadow: 0 0 0 1em navy,
+  0 1em 0 1em navy,
+  -2.5em 1.5em 0 .5em navy,
+  2.5em 1.5em 0 .5em navy,
+  -3em -3em 0 0 navy,
+  3em -3em 0 0 navy,
+  -2em -2em 0 0 navy,
+  2em -2em 0 0 navy,
+  -3em -1em 0 0 navy,
+  -2em -1em 0 0 navy,
+  2em -1em 0 0 navy,
+  3em -1em 0 0 navy,
+  -4em 0 0 0 navy,
+  -3em 0 0 0 navy,
+  3em 0 0 0 navy,
+  4em 0 0 0 navy,
+  -5em 1em 0 0 navy,
+  -4em 1em 0 0 navy,
+  4em 1em 0 0 navy,
+  5em 1em 0 0 navy,
+  -5em 2em 0 0 navy,
+  5em 2em 0 0 navy,
+  -5em 3em 0 0 navy,
+  -3em 3em 0 0 navy,
+  3em 3em 0 0 navy,
+  5em 3em 0 0 navy,
+  -2em 4em 0 0 navy,
+  -1em 4em 0 0 navy,
+  2em 4em 0 0 navy,
+  2em 4em 0 0 navy;
+  background: navy;
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+  margin: 50px 0 70px 65px;
+}
+
 
 .container
 {
@@ -64,6 +104,11 @@ img
   margin: 2%;
   padding: 2%;
   box-sizing: border-box;
+}
+
+.roundcorners
+{
+  border-radius: 50px;
 }
 
 .center
